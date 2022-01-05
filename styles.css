@@ -1,0 +1,20 @@
+.highlight {
+  color: green;
+  font-size: larger;
+}
+
+body {
+  margin: 15%;
+}
+.intro {
+  font-size: large;
+  font-style: italic;
+  color: white;
+  background-color: black;
+  padding: 10px;
+}
+
+.fulltext {
+  padding: 10px;
+  background-color: gainsboro;
+}
